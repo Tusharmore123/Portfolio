@@ -41,7 +41,7 @@ function Header() {
       </div>
       <div className="justify-content-end navbar-nav collapse navbar-collapse" id="navbarNavDropdown">
       <li className="nav-item" >
-      <button type="button" className="btn btn-light   " ><a href='src/assets/Tushar_More_Resume.pdf' download="Tushar_More_Resume.pdf"><i className="fas fa-download"></i>Download Resume</a></button>
+      <button type="button" className="btn btn-light   " ><a href='/Tushar_More_Resume.pdf' download="Tushar_More_Resume.pdf"><i className="fas fa-download"></i>Download Resume</a></button>
       </li>
     </div>
   </div>
