@@ -39,7 +39,7 @@ function MyExperience() {
                             <p className='fs-6 text-light  '>Sciative Solutions</p>
                         </div>
                         <div>
-                            <p className='text-light float-end lh-lg '>oct-2023  mar-2023</p>
+                            <p className='text-light float-end lh-lg '>oct-2023  mar-2024</p>
                         </div>
                         <ul className='clearfix text-light' >
                             <li >At Sciative Solutions, I worked as a Data Engineer , during which I honed my skills in web scraping, automation, and database management. </li>
