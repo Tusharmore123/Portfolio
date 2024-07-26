@@ -7,7 +7,7 @@ import 'bootstrap/dist/js/bootstrap.bundle.min'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import About from './components/About.jsx'
 import Skills from './components/Skills.jsx'
-import Footer from '../../../../React Basic/reactRouter/src/Components/Footer/Footer.jsx'
+import Footer from './components/footer.jsx'
 
 
 const router=createBrowserRouter([{
